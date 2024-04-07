@@ -28,7 +28,6 @@ td:not(:last-child) {
 }
 
 td {
-  /* background-color: aqua; */
   font-weight: 400;
   color: gray;
 }
